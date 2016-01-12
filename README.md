@@ -1,5 +1,5 @@
 # RegexKitLite
-Git mirror of RegexKitLite SVN repo
+Git mirror of RegexKitLite SVN repo http://regexkit.sourceforge.net/ 
 
 # 第三方正则表达式工具类
 
